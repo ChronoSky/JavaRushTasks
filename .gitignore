@@ -6,3 +6,10 @@ target/
 .idea
 .repository/
 *.properties
+
+
+/out/
+/JavaRushPlugin.properties
+/Instruction.png
+/out.log
+/out.log.*
